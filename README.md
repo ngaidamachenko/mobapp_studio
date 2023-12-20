@@ -19,6 +19,10 @@ A standard Jupyter notebook with python 3 installation is requried, along
 with pandas, matplotlib, and numpy. 
 
 ## Usage
+The dataset googleplaystore.csv must first be downloaded from:
+
+ https://www.kaggle.com/lava18/google-play-store-apps
+ 
 To execute the analysis, open my_mobapp_studio.ipynb in Jupyter and execute 
 all cells. 
 
