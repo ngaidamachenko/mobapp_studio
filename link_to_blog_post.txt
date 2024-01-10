@@ -1,0 +1,5 @@
+The blog post can be accessed at the following link: 
+
+https://medium.com/@nikita.gaidamachenko/my-mobapp-studio-analysis-of-application-data-by-andrew-bonham-and-nikita-gaidamachenko-123b32306948
+
+Note that a Medium account is required.
